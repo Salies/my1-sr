@@ -1,0 +1,9 @@
+Wrote 8760 hourly rows -> my1_era5_blh.csv
+Nearest ERA5 grid cell: 51.5000, -0.2500 (~7.1 km from MY1)
+
+TIME ALIGNMENT NOTE:
+  ERA5 BLH is an instantaneous value at each UTC hour.
+  airqualityengland/MIDAS data are GMT hour-ending. GMT==UTC, but the
+  hour-ending convention means their 13:00 covers 12:00-13:00, while
+  ERA5 13:00 is the instant. Decide on your merge convention (e.g.
+  shift, or accept the ~1h instantaneous-vs-mean difference).
