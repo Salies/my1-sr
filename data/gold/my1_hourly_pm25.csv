@@ -1,4 +1,4 @@
-pm25,vehicle_count,prcp_amt,glbl_irad_amt,air_temperature,rltv_hum,msl_pressure,blh_m,unix_time,julian_day,day_of_week,hour_of_day,wind_u,wind_v
+target,vehicle_count,prcp_amt,glbl_irad_amt,air_temperature,rltv_hum,msl_pressure,blh_m,unix_time,julian_day,day_of_week,hour_of_day,wind_u,wind_v
 13.2,2402,0.0,0.0,20.7,71.4,1014.9,229.4208,1532390,205,1,0,2.67312943694689,1.5433320000000013
 22.7,3644,0.0,963.0,28.7,42.3,1013.2,1798.7944,1532440,205,1,14,4.009694155420335,2.3149980000000023
 17.8,3672,0.0,1898.0,28.8,43.6,1013.2,1731.4312,1532444,205,1,15,2.9005153836455153,1.0557012636781813
